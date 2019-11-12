@@ -3,8 +3,12 @@
 ################################################################################
 
 /.vs
-/.ipynb_checkpoints
-/my data
+*.ipynb_checkpoints
+*.pdn
+*.zip
+image_png_*.png
+/my data/bmp data
+/my data/old data
 /PDF + HTML
 /Test code
 /__pycache__
