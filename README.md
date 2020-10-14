@@ -1,4 +1,4 @@
 # Finger-Teller
 
-Binary Tree Machine Learning to count fingers from live webcam stream
-Made with jupyter notebook
+* Machine Learning project with Python using Jupyter Notebook.
+* Live finger counting from camera stream using Binary Decision Tree, with a Convolutional approach and connected components.
